@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-02-10T15:09:22 IST" name="Suite" finished-at="2022-02-10T15:09:37 IST" duration-ms="15233">
+    <groups>
+    </groups>
+    <test started-at="2022-02-10T15:09:22 IST" name="Test" finished-at="2022-02-10T15:09:37 IST" duration-ms="15233">
+      <class name="testCases.MultipleWindows">
+        <test-method is-config="true" signature="initiliseBrowser()[pri:0, instance:testCases.MultipleWindows@35aea049]" started-at="2022-02-10T15:09:22 IST" name="initiliseBrowser" finished-at="2022-02-10T15:09:28 IST" duration-ms="5927" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initiliseBrowser -->
+        <test-method signature="windowHandling()[pri:0, instance:testCases.MultipleWindows@35aea049]" started-at="2022-02-10T15:09:28 IST" name="windowHandling" finished-at="2022-02-10T15:09:37 IST" duration-ms="9192" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- windowHandling -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testCases.MultipleWindows@35aea049]" started-at="2022-02-10T15:09:37 IST" name="close" finished-at="2022-02-10T15:09:37 IST" duration-ms="72" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- testCases.MultipleWindows -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
